@@ -1,0 +1,60 @@
+h3{
+    background-color: cornflowerblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border-radius: 15px;
+    margin-top:20px;
+}
+
+#note{
+    background-color:cyan;
+    border-radius: 5px;
+    font-size: 23px;
+}
+
+#title{
+    background-color: cornsilk;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-radius: 15px;
+    margin-top:20px;
+}
+
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.div_speed{
+    float: left;
+    font-size: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+
+.div_volume{
+    float: right;
+    font-size: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#play:hover{
+    background-color:rgb(130, 124, 242);
+}
+
+canvas{
+    border: 5px solid tomato ;
+    border-radius:10px;
+    margin-top:110px;
+
+}
